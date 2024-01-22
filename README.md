@@ -1,5 +1,5 @@
 # TcsCourseID-3224-E1-Path-3 MiniProject Solution: 
-   ### Project link (only TCS Employees can open it)
+   ### Project link (only TCS Employee can open it)
          https://play.fresco.me/course/1083  
 
 
