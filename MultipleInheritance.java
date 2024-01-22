@@ -1,5 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
+
  interface HockeyTeam {
     public int calculateHockeyScore();
     public int findHighestGoalByIndividualInHockey();
