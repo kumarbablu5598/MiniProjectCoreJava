@@ -1,4 +1,9 @@
-# TcsCourseID-3224-E1-Path-3 MiniProject Solution:
+# TcsCourseID-3224-E1-Path-3 MiniProject Solution: 
+   ### Project link (only TCS Employees can open it)
+         https://play.fresco.me/course/1083  
+
+
+    
   ### Introduction
    * This course covers the following Java concepts.
      * Control Flow Statements
